@@ -60,7 +60,7 @@
     "mocha-slow-reporter": "^*",
     "node-version-check": "^2.2.0",
     "nyc": "^15.0.0",
-    "offline-github-changelog": "^1.6.1",
+    "offline-github-changelog": "^2.4.0",
     "prettier": "~2.5.0",
     "rollup": "^2.0.3",
     "rollup-plugin-commonjs": "^10.0.0",
